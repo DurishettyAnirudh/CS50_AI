@@ -1,4 +1,4 @@
-#### 🎬 Degrees of Separation
+# 🎬 Degrees of Separation
 This Python project finds the shortest path of connections between two actors or celebrities based on the movies they’ve starred in together.
 It uses Breadth-First Search (BFS) to find the smallest number of degrees of separation, similar to the Kevin Bacon game.
 
